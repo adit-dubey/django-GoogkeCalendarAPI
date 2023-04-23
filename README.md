@@ -1,1 +1,1 @@
-# django-GoogkeCalendarAPI
+# django-GoogleCalendarAPI
